@@ -1,2 +1,15 @@
-Página inicial do Alura Plus. Projeto desenvolvido durante o curso de HTML e CSS da Alura.
-Linguagens utilizadas: HTML e CSS.
+# Alura+
+
+Página inicial do Alura+, desenvolvida durante o curso de HTML e CSS da Alura.
+
+## Tecnologias Utilizadas
+
+HTML.
+
+CSS.
+
+## Desenvolvedor
+
+Anderson Lucas Lisbôa
+
+Alura
